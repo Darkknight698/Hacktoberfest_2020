@@ -1,0 +1,14 @@
+Question:
+
+Let's write a java program to check whether the given number is armstrong number or not.
+
+Armstrong Number in Java: A positive number is called armstrong number if it is equal to the sum of cubes of its digits for example 0, 1, 153, 370, 371, 407 etc.
+
+Let's try to understand why 153 is an Armstrong number.
+153 = (1*1*1)+(5*5*5)+(3*3*3)  
+where:  
+(1*1*1)=1  
+(5*5*5)=125  
+(3*3*3)=27  
+So:  
+1+125+27=153 
