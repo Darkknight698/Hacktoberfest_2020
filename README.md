@@ -24,7 +24,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 ## Choose from these tasks :rainbow:
 
-Here are 3 quick and easy ways to contribute to this project:
+There are 3 quick and easy ways to contribute to this project:
 
 ## Task 1: [Add your program question and solution](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201) :innocent:
 Add any programming question and its solution in a separate folder and make your way to Open Source.
@@ -42,7 +42,7 @@ Add any programming question and its solution in a separate folder and make your
 ## Task 2: [Submit your Own portfolio page](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
 Host your very own portfolio page in minutes and share with us to get nearer to swags
 
-You can take help from one of my blogs :point_right: [Visit Blog](https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e)
+You can also take help from one of my blogs :point_right: [Visit Blog](https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e)
 
 :star: The file structure will be as follows:
 
@@ -118,7 +118,7 @@ Now, let's add a reference to the original [Hacktoberfest_2020](https://github.c
 $ git remote add upstream https://github.com/chandrikadeb7/Hacktoberfest_2020.git
 ```
 
-> This adds a new remote named ***upstream***.
+> These adds a new remote named ***upstream***.
 
 See the changes using
 
